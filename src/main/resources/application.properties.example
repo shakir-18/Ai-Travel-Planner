@@ -1,5 +1,5 @@
 spring.application.name=TravelPlanner
-telegram.bot.token=8244160842:AAFShgdE38lJTSYk3NmcZBX7d_AF_Ik7Qls
+telegram.bot.token=YOUR_BOT_TOKEN_HERE
 telegram.bot.username=shakir_shakir_2025_bot
 
 spring.datasource.url=jdbc:h2:mem:testdb
