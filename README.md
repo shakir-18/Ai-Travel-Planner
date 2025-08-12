@@ -110,7 +110,7 @@ AI Model: Local Mistral instance required to generate trip plans.
 PDFs: Generated PDFs are stored temporarily before sending.
 
 Demo Video
-[Watch the video here](https://www.linkedin.com/posts/mohammed-shakir-732b50307_backenddevelopment-springboot-java-activity-7361045600450093056-gNkD)
+https://www.linkedin.com/posts/mohammed-shakir-732b50307_backenddevelopment-springboot-java-activity-7361045600450093056-gNkD
 
 Contributing
 Feel free to fork the repo and submit pull requests or raise issues!
